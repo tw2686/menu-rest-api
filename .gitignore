@@ -1,0 +1,5 @@
+.env
+menusections/migrations/__pycache__/
+menu_api/__pycache__/
+menusections/tests/__pycache__/
+menusections/views/__pycache__/
