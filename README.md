@@ -57,43 +57,43 @@ You can now access the file api service on your browser by using
     ```
 ## How to Use
 1)	Get a menu section by id
-    """
+    ```
       menusection/<id>
-    """
+    ```
     - refresh by clicking GET
 
 2)	Get all menu sections
-    """
+    ```
       menusection/
-    """
+    ```
     - refresh by clicking GET
 
 3)	Add a new menu section
-    """
+    ```
       menusection/
-    """
+    ```
     or
-    """
+    ```
       menusection/add
-    """
+    ```
     - input name and click POST
 
 4)	Edit a menu section
-    """
+    ```
       menusection/<id>
-    """
+    ```
     or
-    """
+    ```
       menusection/<id>/edit
-    """
+    ```
     - input name and click PUT
 
 5)	Delete a menu section
-    """
+    ```
       menusection/<id>
-    """
+    ```
     or
-    """
+    ```
       menusection/<id>/delete
-    """
+    ```
     - click DELETE
