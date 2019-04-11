@@ -1,6 +1,6 @@
 # Menu Section API
 ## About
-This is a simple menu section API created using Django REST Framework.
+This is a simple menu section rest API created using Django REST Framework.
 ## Features
 With this API you can do the following;
 1)	Get a menu section by id
@@ -30,7 +30,7 @@ Tools used during the development of this API are;
     ```
 3. Go into the cloned repo:
     ```bash
-        $ cd menu_api
+        $ cd menu-rest-api
     ```
 4. Create and activate your virtual environment:
     ```bash
@@ -50,10 +50,11 @@ Tools used during the development of this API are;
     ```bash
         $ python manage.py runserver
     ```
-8. Go on browser and enter this link
-    '''
-      https://localhost:8000/menusection/
-    '''
+8. Go to a browser and enter this link
+You can now access the file api service on your browser by using
+    ```
+        http://localhost:8000/menusection/
+    ```
 ## How to Use
 1)	Get a menu section by id
     """
