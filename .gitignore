@@ -1,3 +1,5 @@
+venv/
+venv
 .venv
 .env
 menusections/migrations/__pycache__/
